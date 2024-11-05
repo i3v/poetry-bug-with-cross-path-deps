@@ -6,7 +6,7 @@ authors = ["Your Name <you@example.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
-package2 = {path = "deps/package2"}
+package2 = {path = "../package2"}
 
 [tool.poetry.dev-dependencies]
 
